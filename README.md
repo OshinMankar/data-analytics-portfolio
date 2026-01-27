@@ -1,17 +1,26 @@
 # Data Analytics & GenAI Portfolio
 
 Hi, I’m Oshin 👋  
-I’m a Business Analytics and GenAI learner, building hands-on projects in data analysis, visualization, and AI-driven solutions.
+I’m a Business Analytics and GenAI learner with a strong interest in solving real-world business problems using data, visualization, and AI-driven insights.
 
-## Skills
-- Business Analytics & Problem Framing
-- Data Visualization (Tableau)
-- Statistics & Hypothesis Testing
-- Python (Basics)
-- SQL (Upcoming)
-- GenAI & LLMs (Upcoming)
+This repository documents my learning journey through hands-on projects, starting from business analytics and dashboards, and gradually moving into data engineering, machine learning, and GenAI.
 
-## Projects
-- Sales Performance Analysis (Tableau) – Coming Soon
-- Business Case Study using Statistical Analysis – Coming Soon
+## Current Skills
+- Business Analytics & Problem Framing  
+- Statistics & Hypothesis Testing  
+- Data Visualization (Tableau)  
+- Data Storytelling  
+
+## Learning In Progress
+- SQL & Data Warehousing  
+- Python for Analytics & GenAI  
+- Machine Learning  
+- LLMs, Prompt Engineering & AI Agents  
+
+## Projects (In Progress)
+- Sales Performance Dashboard (Tableau)  
+- Business Case Study using Statistical Analysis  
+
+📌 Projects will be updated continuously as I progress through my course.
+
 
