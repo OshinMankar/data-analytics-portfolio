@@ -31,7 +31,7 @@ This repository documents my learning journey through hands-on projects, startin
 
 ## Projects
 1) Chocolate Sales Analysis (Tableau)
-Interactive dashboards analyzing product performance, revenue trends, and customer demographics.
+ - Interactive dashboards analyzing product performance, revenue trends, and customer demographics.
 
 📌 Projects will be updated continuously as I progress through my course.
 
